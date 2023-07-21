@@ -1,0 +1,9 @@
+{
+	"name": "AHADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dba61bac-62c2-425a-9538-7dc0bb8c96b3",
+		"tenantId": "85b571a0-1f73-40c9-8533-3e7fd369735b"
+	}
+}
